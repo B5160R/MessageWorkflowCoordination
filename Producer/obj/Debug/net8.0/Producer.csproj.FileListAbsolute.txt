@@ -1,0 +1,17 @@
+/home/mike/SWVF24/SystemIntegration/Code/MessageWorkflowCoordination/Producer/bin/Debug/net8.0/Producer
+/home/mike/SWVF24/SystemIntegration/Code/MessageWorkflowCoordination/Producer/bin/Debug/net8.0/Producer.deps.json
+/home/mike/SWVF24/SystemIntegration/Code/MessageWorkflowCoordination/Producer/bin/Debug/net8.0/Producer.runtimeconfig.json
+/home/mike/SWVF24/SystemIntegration/Code/MessageWorkflowCoordination/Producer/bin/Debug/net8.0/Producer.dll
+/home/mike/SWVF24/SystemIntegration/Code/MessageWorkflowCoordination/Producer/bin/Debug/net8.0/Producer.pdb
+/home/mike/SWVF24/SystemIntegration/Code/MessageWorkflowCoordination/Producer/bin/Debug/net8.0/RabbitMQ.Client.dll
+/home/mike/SWVF24/SystemIntegration/Code/MessageWorkflowCoordination/Producer/obj/Debug/net8.0/Producer.csproj.AssemblyReference.cache
+/home/mike/SWVF24/SystemIntegration/Code/MessageWorkflowCoordination/Producer/obj/Debug/net8.0/Producer.GeneratedMSBuildEditorConfig.editorconfig
+/home/mike/SWVF24/SystemIntegration/Code/MessageWorkflowCoordination/Producer/obj/Debug/net8.0/Producer.AssemblyInfoInputs.cache
+/home/mike/SWVF24/SystemIntegration/Code/MessageWorkflowCoordination/Producer/obj/Debug/net8.0/Producer.AssemblyInfo.cs
+/home/mike/SWVF24/SystemIntegration/Code/MessageWorkflowCoordination/Producer/obj/Debug/net8.0/Producer.csproj.CoreCompileInputs.cache
+/home/mike/SWVF24/SystemIntegration/Code/MessageWorkflowCoordination/Producer/obj/Debug/net8.0/Producer.csproj.Up2Date
+/home/mike/SWVF24/SystemIntegration/Code/MessageWorkflowCoordination/Producer/obj/Debug/net8.0/Producer.dll
+/home/mike/SWVF24/SystemIntegration/Code/MessageWorkflowCoordination/Producer/obj/Debug/net8.0/refint/Producer.dll
+/home/mike/SWVF24/SystemIntegration/Code/MessageWorkflowCoordination/Producer/obj/Debug/net8.0/Producer.pdb
+/home/mike/SWVF24/SystemIntegration/Code/MessageWorkflowCoordination/Producer/obj/Debug/net8.0/Producer.genruntimeconfig.cache
+/home/mike/SWVF24/SystemIntegration/Code/MessageWorkflowCoordination/Producer/obj/Debug/net8.0/ref/Producer.dll
